@@ -41,9 +41,6 @@ analytics, and reporting across marketing, product, and executive functions.
 | Data Science Foundations | Great Learning | [View Certificate](https://www.mygreatlearning.com/certificate/FRIBAHLD) |
 | Python | Kaggle | [View Certificate](https://www.kaggle.com/learn/certification/fridahmutabari/python) |
 | Overview of Data Visualization | Coursera| [View Certificate](https://www.coursera.org/account/accomplishments/certificate/AMEPTDFFKHBP) |
-| Programming for Everybody (Getting Started with
-Python) | University of Michigan (Coursera)| [View Certificate](https://www.coursera.org/account/accomplishments/certificate/3U6NXN7VPHF8) |
+| Programming for Everybody (Getting Started with Python) | University of Michigan (Coursera)| [View Certificate](https://www.coursera.org/account/accomplishments/certificate/3U6NXN7VPHF8) |
 
 ---
-
-*This portfolio is actively maintained. Last updated: April 2026.*
