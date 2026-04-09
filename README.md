@@ -1,5 +1,3 @@
-# Fridah Nkirote Mutabari
-
 <div align="center">
   <img src="https://github.com/M-Nkirote/fridah-mutabari-portfolio/blob/main/1751814007598.png" 
        alt="Fridah Nkirote Mutabari" 
@@ -8,7 +6,7 @@
        style="border-radius: 50%; object-fit: cover;"/>
 
   <h1>Fridah Nkirote Mutabari</h1>
-  <p>Data Analyst & BI Professional · Nairobi, Kenya</p>
+  <p>Aspiring Data Professional · Nairobi, Kenya</p>
   
   <a href="mailto:nkirote.mutabari@gmail.com">📧 Email</a> ·
   <a href="https://www.linkedin.com/in/nkirote-mutabari/">💼 LinkedIn</a> ·
