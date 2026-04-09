@@ -44,7 +44,7 @@ analytics, and reporting across marketing, product, and executive functions.
 | Credential | Issuer | Verify |
 |------------|--------|--------|
 | McKinsey Forward Programme | McKinsey & Company | [View Badge](https://www.credly.com/badges/7e16b447-399e-4841-9e7b-99bafedaf4de/linked_in_profile) |
-| Innovations for the Emerging City, Openlab Multidisciplinary Project Course | KTH Royal Institute of Technology, Stockholm | [View Badge](https://openlabsthlm.se/certificate/fridah-mutabari/?gen=true) |
+| Innovations for the Emerging City, Openlab Multidisciplinary Project Course | KTH Royal Institute of Technology, Stockholm | [View Certificate](https://openlabsthlm.se/certificate/fridah-mutabari/?gen=true) |
 
 
 ### Data & Analytics
