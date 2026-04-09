@@ -56,3 +56,5 @@ analytics, and reporting across marketing, product, and executive functions.
 | Programming for Everybody (Getting Started with Python) | University of Michigan (Coursera)| [View Certificate](https://www.coursera.org/account/accomplishments/certificate/3U6NXN7VPHF8) |
 
 ---
+
+**Other Certificates can be found in the folders: Academic Certificates and Professional Certificates.
