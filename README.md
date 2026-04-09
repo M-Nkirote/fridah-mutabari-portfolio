@@ -1,11 +1,25 @@
 # Fridah Nkirote Mutabari
 
+<div align="center">
+  <img src="https://github.com/M-Nkirote/fridah-mutabari-portfolio/blob/main/1751814007598.png" 
+       alt="Fridah Nkirote Mutabari" 
+       width="150" 
+       height="150" 
+       style="border-radius: 50%; object-fit: cover;"/>
+
+  <h1>Fridah Nkirote Mutabari</h1>
+  <p>Data Analyst & BI Professional · Nairobi, Kenya</p>
+  
+  <a href="mailto:nkirote.mutabari@gmail.com">📧 Email</a> ·
+  <a href="https://www.linkedin.com/in/nkirote-mutabari/">💼 LinkedIn</a> ·
+  <a href="https://github.com/M-Nkirote">🐙 GitHub</a>
+
+</div>
+
+---
+
 Data professional with 3+ years of experience in business intelligence, 
 analytics, and reporting across marketing, product, and executive functions.
-
-📍 Nairobi, Kenya  
-📧 nkirote.mutabari@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nkirote-mutabari/)
 
 ---
 
